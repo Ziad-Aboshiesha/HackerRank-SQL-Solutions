@@ -35,13 +35,13 @@ The repository is organized as follows:
 
 
 /hackerrank-sql-solutions
-
-
-
- /solutions              # Folder containing all SQL solution files
-
-
- README.md               # This README file
+│
+├── /solutions                # Folder containing all SQL solution files
+│   ├── problem1.sql          # Solution for Problem 1
+│   ├── problem2.sql          # Solution for Problem 2
+│   └── ...                   # Solutions for other problems
+│
+└── README.md                 # This README file
 
 
 Each SQL file is named according to the problem it solves, and the file contains the SQL query along with comments explaining the solution.
@@ -62,4 +62,6 @@ Use these solutions as a reference or to learn new SQL techniques.
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me via:
 - **Email**: [ziadaboshiesha2@gmail.com](mailto:ziadaboshiesha2@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
+
+
 Happy coding! 🚀
