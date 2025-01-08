@@ -11,9 +11,8 @@ Welcome to my HackerRank SQL Solutions repository! This repository contains my s
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Repository Structure](#repository-structure)
-3. [How to Use](#how-to-use)
-4. [Contact Me](#contact-me)
+2. [How to Use](#how-to-use)
+3. [Contact Me](#contact-me)
 
 ---
 
@@ -36,9 +35,7 @@ The repository is organized as follows:
 /hackerrank-sql-solutions
 │
 ├── /solutions # Folder containing all SQL solution files
-│ ├── problem1.sql # Solution for Problem 1
-│ ├── problem2.sql # Solution for Problem 2
-│ └── ... # Solutions for other problems
+
 │
 └── README.md # This README file
 
