@@ -58,11 +58,11 @@ Open any SQL file to view the solution and comments explaining the logic.
 
 Use these solutions as a reference or to learn new SQL techniques.
 
-Contact Me
+## Contact Me
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me via:
 
-Email: your-email@gmail.com
+Email: ziadaboshiesha2@gmail.com
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
 
 Happy coding! 🚀
