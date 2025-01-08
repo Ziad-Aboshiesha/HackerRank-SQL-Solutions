@@ -1,10 +1,4 @@
-# HackerRank-SQL-Solutions
 
-
-Got it! To preserve the formatting (like tables, code blocks, and headings) when you copy and paste the README into GitHub, you need to use Markdown syntax. Below is the same content written in proper Markdown format. You can copy and paste this directly into your README.md file on GitHub, and it will render beautifully.
-
-markdown
-Copy
 # HackerRank SQL Solutions
 
 Welcome to my HackerRank SQL Solutions repository! This repository contains my solutions to **58 SQL problems** from HackerRank. Each problem is solved using SQL queries, and the solutions are organized for easy reference.
