@@ -31,7 +31,7 @@ I solved these problems to improve my SQL skills and prepare for technical inter
    git clone https://github.com/Ziad-Aboshiesha/HackerRank-SQL-Solutions.git
 Navigate to the solutions folder to find the SQL files.
 
-Open any SQL file to view the solution and comments explaining the logic.
+Open any SQL file to view the solution .
 
 Use these solutions as a reference or to learn new SQL techniques.
 
