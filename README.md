@@ -35,13 +35,14 @@ The repository is organized as follows:
 /hackerrank-sql-solutions
 │
 ├── /solutions # Folder containing all SQL solution files
-│ ├── problem1.sql # Solution for Problem 1
-│ ├── problem2.sql # Solution for Problem 2
+
+
 │ └── ... # Solutions for other problems
+
+
 │
 └── README.md # This README file
 
-Copy
 
 Each SQL file is named according to the problem it solves, and the file contains the SQL query along with comments explaining the solution.
 
