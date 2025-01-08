@@ -1,0 +1,6 @@
+SELECT 
+    FORMAT(ROUND(MAX(LAT_N), 4), '0.####') 
+FROM 
+    STATION 
+WHERE 
+    LAT_N < 137.2345;

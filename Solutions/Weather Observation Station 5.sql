@@ -1,0 +1,16 @@
+SELECT TOP 1 
+    CITY, 
+    LEN(CITY) 
+FROM 
+    STATION 
+ORDER BY 
+    LEN(CITY) DESC;
+
+SELECT TOP 1 
+    CITY, 
+    LEN(CITY) 
+FROM 
+    STATION 
+ORDER BY 
+    LEN(CITY) ASC, 
+    CITY ASC;
