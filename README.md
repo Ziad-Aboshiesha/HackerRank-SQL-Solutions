@@ -46,7 +46,9 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 - **Email**: [ziadaboshiesha2@gmail.com](mailto:ziadaboshiesha2@gmail.com)
 
   
-- **LinkedIn**: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/gmail.png)](mailto:ziadaboshiesha2@gmail.com)
+  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
 
 
 Happy coding! 🚀
