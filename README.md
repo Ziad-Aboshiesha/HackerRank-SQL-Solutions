@@ -44,6 +44,8 @@ Use these solutions as a reference or to learn new SQL techniques.
 ## Contact Me
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me via:
 - **Email**: [ziadaboshiesha2@gmail.com](mailto:ziadaboshiesha2@gmail.com)
+
+  
 - **LinkedIn**: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-mohamed-029b69281/)
 
 
