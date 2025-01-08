@@ -32,7 +32,11 @@ I solved these problems to improve my SQL skills and prepare for technical inter
 
 ## Repository Structure
 The repository is organized as follows:
+
+
 /hackerrank-sql-solutions
+
+
 │
 ├── /solutions # Folder containing all SQL solution files
 
